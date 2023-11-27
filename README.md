@@ -15,3 +15,6 @@
 <p align="center">
   <a href="https://github.com/dhirajhdesale/"><img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|+SQL%20|%20Shell Script+Git and GitHub|%20Latex;&center=true&width=550&height=40"></a>
 </p>
+
+<h2 align="center">:smile: Language Used :smile:</h2>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajhdesale&layout=compact"></div>
