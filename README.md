@@ -6,3 +6,7 @@
 <p align="center">
   <a href="https://github.com/dhirajhdesale/"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+and+Engineer+Student;Java SE%20|%20Python%20|+SQL%20|%20Shell Script+Git and GitHub;&center=true&width=550&height=40"></a>
 </p>
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dhirajhdesale&show_icons=true&theme=chartreuse-dark">
+</div>
