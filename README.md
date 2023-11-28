@@ -17,9 +17,10 @@
 <h2 align="center">:desktop_computer: Technologies and Coding Skills :desktop_computer:</h2>
 <p align="center">
   <a href="https://github.com/dhirajhdesale/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20|%20%20Python%20|%20%20SQL%20|%20%20Shell%20Script%20 Git GitHub;&center=true&width=550&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Application+Student+Engineer;Java%20|%20%20Python%20|%20%20SQL%20|%20%20Shell%20Script;&center=true&width=550&height=40">
   </a>
 </p>
+
 
 
 <h2 align="center">:smile: Language Used :smile:</h2>
