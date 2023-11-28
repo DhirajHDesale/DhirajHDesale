@@ -8,7 +8,7 @@
     <img src=" https://readme-typing-svg.herokuapp.com/?lines=Java%20|%20%20Python%20|%20%20SQL%20|%20%20Shell%20Script;&center=true&width=550&height=40">
   </a>
 </p>
-</p>
+
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dhirajhdesale&show_icons=true&theme=chartreuse-dark">
