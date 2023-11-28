@@ -16,10 +16,11 @@
 <br>
 <h2 align="center">:desktop_computer: Technologies and Coding Skills :desktop_computer:</h2>
 <p align="center">
-  <a href="https://github.com/dhirajhdesale/">
-    <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=620&lines=Java+%7C+Python+%7C+SQL+%7C+Shell+Script+%7C+Git+and+GitHub)](https://git.io/typing-svg)">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=620&lines=Java+%7C+Python+%7C+SQL+%7C+Shell+Script+%7C+Git+and+GitHub" alt="Typing SVG">
   </a>
 </p>
+
 
 
 
