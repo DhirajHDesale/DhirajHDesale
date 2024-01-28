@@ -1,6 +1,6 @@
 
 
-<h1 align="center">  Hi, I'm Dhiraj Desale<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">  Hi, I'm Dhiraj Desale <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">:books: Master of Computer Application (M.C.A.) :books:</h2>
 
 <p align="center">
