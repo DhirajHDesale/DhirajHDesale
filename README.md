@@ -15,10 +15,15 @@
 <img align="left" alt="php" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
 <br/>
 <br/>
-<h2 align">Database</h2>
+<h2>Database</h2>
 <img align="left" alt="Oracle" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <img align="left" alt="MySQL" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br />
 <br><br>
+<h2>Tools</h2>
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="VS Code" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
+<br>
+<br>
 <h2 align="center">GitHub History</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dhirajhdesale&show_icons=true&theme=chartreuse-dark">
