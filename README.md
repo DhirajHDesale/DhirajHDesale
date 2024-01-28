@@ -13,7 +13,13 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dhirajhdesale&show_icons=true&theme=chartreuse-dark">
 </div>
+
 <br>
+ <div>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhirajhdesale&theme=dark"/></p>
+
+  </div>
+  <br>
 <h2 align="center">:desktop_computer: Technologies and Coding Skills :desktop_computer:</h2>
 <p align="center">
  
@@ -27,3 +33,15 @@
 
 <h2 align="center">:smile: Language Used :smile:</h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajhdesale&layout=compact"></div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px; flex-wrap: wrap; gap: 10px;">
+
+  <!--<div>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajhdesale&show_icons=true&locale=en&layout=compact&theme=dark" alt="nikamaish" /></p>
+  </div>
+
+  <div>
+  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhirajhdesale&theme=dark" /></p>
+
+  </div>
+
+</div> -->
