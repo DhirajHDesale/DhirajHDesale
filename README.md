@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey, I am Dhiraj Desale! :wave:</h1>
+<h1 align="center">  Hi, I'm Dhiraj Desale<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">:books: Master of Computer Application (M.C.A.) :books:</h2>
 
 <p align="center">
@@ -8,8 +8,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Application+Student+Engineer;Java%20|%20%20Python%20|%20%20SQL%20|%20%20Shell%20Script;&center=true&width=550&height=40">
   </a>
 </p>
-
 <br>
+<h2>Languages</h2>
+<img align="left" alt="c++" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain.svg" />
+<img align="left" alt="php" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
+<br/>
+<br/>
+<h2 align">Database</h2>
+<img align="left" alt="Oracle" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+<img align="left" alt="MySQL" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br />
+<br><br>
+<h2 align="center">GitHub History</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dhirajhdesale&show_icons=true&theme=chartreuse-dark">
 </div>
@@ -29,19 +39,12 @@
 </p>
 
 
+<br/>
+<br/>
 
 
 <h2 align="center">:smile: Language Used :smile:</h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajhdesale&layout=compact"></div>
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px; flex-wrap: wrap; gap: 10px;">
 
-  <!--<div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajhdesale&show_icons=true&locale=en&layout=compact&theme=dark" alt="nikamaish" /></p>
-  </div>
-
-  <div>
-  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhirajhdesale&theme=dark" /></p>
-
-  </div>
-
-</div> -->
+ 
