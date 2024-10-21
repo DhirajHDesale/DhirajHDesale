@@ -24,16 +24,16 @@
 <img align="left" alt="VS Code" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <br>
 <br>
-<!-- <h2 align="center">GitHub History</h2>
+<h2 align="center">GitHub History</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dhirajhdesale&show_icons=true&theme=chartreuse-dark">
 </div>
- -->
+
 <br>
- <div>
+<!--  <div>
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhirajhdesale&theme=dark"/></p>
 
-  </div>
+  </div> -->
   <br>
 <h2 align="center">:desktop_computer: Technologies and Coding Skills :desktop_computer:</h2>
 <p align="center">
